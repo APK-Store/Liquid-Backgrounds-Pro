@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, LiquidBackgroundsFreeActivity!
+	</string>
+	<string name="app_name">Liquid Wallpapers</string>
+
+	<string name="aboutMenuItemText">About</string>
+	<string name="role00">Official Website</string>
+	<string name="role01">Idea &amp; Service Implementation</string>
+	<string name="role02">Software &amp; Website Development</string>
+	<string name="role03">ROM Development</string>
+	<string name="role04">Boot Animations Development</string>
+	<string name="role05">Graphics Development</string>
+	<string name="closeText">Close</string>
+	<string name="versionInfo">0.0.1</string>
+</resources>

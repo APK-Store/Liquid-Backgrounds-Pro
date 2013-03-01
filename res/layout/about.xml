@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	style="@style/DefaultDialogLayout" android:layout_gravity="center_horizontal">
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role01" style="@style/AboutHeader"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role02" style="@style/AboutHeader"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Gerald Wayne Baggett Jr AKA Raziel23x"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role03" style="@style/AboutHeader"
+		android:layout_marginTop="10dip" android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Ryan AKA liquid0624"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role04" style="@style/AboutHeader"
+		android:layout_marginTop="10dip" android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role05" style="@style/AboutHeader"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Misty AKA liquidzgrl‎"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingTop="5dip"
+		android:text="@string/role00" style="@style/AboutHeader"
+		android:layout_gravity="center_horizontal" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:autoLink="web"
+		android:text="http://liquidsmoothroms.com" android:layout_marginTop="10dip"
+		android:layout_gravity="center_horizontal" />
+	<Button android:layout_width="wrap_content" android:text="@string/closeText"
+		android:layout_height="wrap_content" android:id="@+id/aboutCloseButton"
+		style="@style/DefaultButton" android:layout_gravity="center_horizontal"
+		android:layout_marginTop="10dip"></Button>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="DefaultButton">
+		<item name="android:width">100dip</item>
+	</style>
+	<style name="AboutHeader">
+		<item name="android:textSize">8pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="DefaultDialogLayout">
+		<item name="android:orientation">vertical</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+		<item name="android:paddingLeft">5dip</item>
+		<item name="android:paddingRight">5dip</item>
+		<item name="android:paddingBottom">5dip</item>
+		<item name="android:background">@color/BackgroundColor</item>
+	</style>
+	<color name="BackgroundColor">#000000</color>
+</resources>
